@@ -2,7 +2,7 @@ import asyncio
 from telegram import Update
 from telegram.ext import Application, CommandHandler, CallbackContext
 
-TELEGRAM_BOT_TOKEN = '6704057021:AAGRYY_9JDCAntYI3lFEO-N08kZWi1KMXzQ
+TELEGRAM_BOT_TOKEN = '7481243495:AAHTjFw3VKiGgWNSO_v4HesALY8h7aMiWp4'
 ADMIN_USER_ID = 5759284972
 USERS_FILE = 'users.txt'
 attack_in_progress = False
